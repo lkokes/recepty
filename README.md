@@ -1,10 +1,8 @@
-# Recepty
+Create your own recipe book and add items to your shopping list.
 
-Vytvorte si vlastnú knihu s receptami a pridávajte si položky do nákupného zoznamu.
-
-- pridať nový recept
-- upravovať recepty
-- pridať ingrediencie do nákupného zoznamu
-- upravovať nákupný zoznam
+- add a new recipe
+- edit recipes
+- add ingredients to shopping list
+- edit the shopping list
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
